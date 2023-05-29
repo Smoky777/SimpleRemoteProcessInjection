@@ -1,0 +1,8 @@
+C:\Users\smoky\Source\Repos\SimpleRemoteProcessInjection\bin\x64\Debug\SimpleRemoteProcessInjection.exe.config
+C:\Users\smoky\Source\Repos\SimpleRemoteProcessInjection\bin\x64\Debug\SimpleRemoteProcessInjection.exe
+C:\Users\smoky\Source\Repos\SimpleRemoteProcessInjection\bin\x64\Debug\SimpleRemoteProcessInjection.pdb
+C:\Users\smoky\Source\Repos\SimpleRemoteProcessInjection\obj\x64\Debug\SimpleRemoteProcessInjection.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\SimpleRemoteProcessInjection\obj\x64\Debug\SimpleRemoteProcessInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\SimpleRemoteProcessInjection\obj\x64\Debug\SimpleRemoteProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\SimpleRemoteProcessInjection\obj\x64\Debug\SimpleRemoteProcessInjection.exe
+C:\Users\smoky\Source\Repos\SimpleRemoteProcessInjection\obj\x64\Debug\SimpleRemoteProcessInjection.pdb
